@@ -1,0 +1,17 @@
+57743,411,12.3,HTV,0,unleaded,0.3,ride,small,12,3,2015,1,1232,2020 Honda Clarity,1232.3
+43322,7327,19.3,HTV,1,hiocatane,3.2,transportation,light,3,4,2000,1,3232,extra storage,8432.4
+96710,3213,12.3,LTV,1,unleaded,3.4,ride,small,6,7,2016,1,3332,comofortable seats,432.3
+48776,8873,5.4,LTV,0,hiocatane,2.5,ride,large,20,5,2012,1,2222,comofortable seats,545
+36697,6769,3.5,HTV,0,unleaded,1.2,transportation,heavy,2,4,2016,1,3213,good ac,432.3
+72126,5651,7.4,HTV,1,hiocatane,4.2,transportation,light,25,1,2011,2,3432,2020 Honda Pilot,522.3,3213,good ac,432.3
+73540,7836,2.5,LTV,0,hiocatane,2.3,ride,small,20,8,2014,1,111,2020 Honda Passport,531.3
+33549,4861,9.6,HTV,0,unleaded,4.2,both,small,28,6,2007,1,444,good ac,231.3
+77750,5596,2.3,LTV,1,unleaded,3.2,ride,small,12,8,2015,1,44,comofortable seats,3213.2
+71785,3984,1.4,LTV,0,hiocatane,1.2,both,small,25,1,2019,1,5555,good ac,3123.2
+57544,1180,6.4,LTV,0,hiocatane,2.1,both,large,23,10,2004,1,666,2020 Honda CR-V Hybrid,312.3
+11098,5967,16.5,HTV,0,hiocatane,4.3,transportation,heavy,11,5,2015,1,3213, 2020 Honda Accord,321.3
+22144,9282,14.2,LTV,1,unleaded,4.5,ride,small,15,7,2016,1,3213,good ac,213.4
+95715,1949,13.3,LTV,0,hiocatane,2.5,ride,large,15,7,2016,1,123,good ac,654.6
+34218,5505,4.3,Motorcar/jeep,1,unleaded,4.2,ride,small,26,5,2019,3,213,comofortable seats,342,1321,2021 Honda Insight,432.2,3213,good ac,213.4
+85514,7311,18.6,Motorbike/rickshaw,1,hiocatane,3.6,ride,small,21,3,2001,1,1321,2021 Honda Insight,432.2
+45069,7032,14.6,HTV,1,unleaded,2.8,both,large,23,9,2003,1,4324,2020 Honda HR-V,654
